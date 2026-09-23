@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\LivingRoom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\LivingRoom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Bathroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Basement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\GameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\GameOver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Kitchen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Kitchen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Home.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\CountDownTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\CountDownTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\DialogueBox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Home.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\DialogueBox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Inventory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Inventory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\HealthBar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\HealthBar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Bathroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20716053-A936-4121-AADF-5CE25912B6A3}|Trapped\\Trapped.vcxproj|solutionrelative:Trapped\\Basement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Room.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.h",
+              "RelativeDocumentMoniker": "Trapped\\Room.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.h",
+              "RelativeToolTip": "Trapped\\Room.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T09:16:12.868Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Forest.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Forest.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.cpp",
+              "RelativeToolTip": "Trapped\\Forest.cpp",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAEwHsBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T23:07:55.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.h",
+              "RelativeDocumentMoniker": "Trapped\\Game.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.h",
+              "RelativeToolTip": "Trapped\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T09:04:26.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Kitchen.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Kitchen.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.cpp",
+              "RelativeToolTip": "Trapped\\Kitchen.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAMgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T22:23:38.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivingRoom.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.h",
+              "RelativeDocumentMoniker": "Trapped\\LivingRoom.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.h",
+              "RelativeToolTip": "Trapped\\LivingRoom.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T22:43:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Game.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Game.cpp",
+              "RelativeToolTip": "Trapped\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T14:58:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Car.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.cpp",
+              "RelativeToolTip": "Trapped\\Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T23:17:53.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Forest.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.h",
+              "RelativeDocumentMoniker": "Trapped\\Forest.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Forest.h",
+              "RelativeToolTip": "Trapped\\Forest.h",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T23:06:05.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Kitchen.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.h",
+              "RelativeDocumentMoniker": "Trapped\\Kitchen.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Kitchen.h",
+              "RelativeToolTip": "Trapped\\Kitchen.h",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T22:23:21.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Basement.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Basement.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.cpp",
+              "RelativeToolTip": "Trapped\\Basement.cpp",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAAPEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T08:18:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Main.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Main.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Main.cpp",
+              "RelativeToolTip": "Trapped\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T10:02:06.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivingRoom.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.cpp",
+              "RelativeDocumentMoniker": "Trapped\\LivingRoom.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\LivingRoom.cpp",
+              "RelativeToolTip": "Trapped\\LivingRoom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T22:39:20.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bathroom.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Bathroom.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.cpp",
+              "RelativeToolTip": "Trapped\\Bathroom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T22:11:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Weapon.h",
+              "RelativeDocumentMoniker": "Trapped\\Weapon.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Weapon.h",
+              "RelativeToolTip": "Trapped\\Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T15:06:12.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Room.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Room.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Room.cpp",
+              "RelativeToolTip": "Trapped\\Room.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T15:40:47.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Audio.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Audio.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.cpp",
+              "RelativeToolTip": "Trapped\\Audio.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T16:30:59.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameOver.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\GAMEOVER.CPP",
+              "RelativeDocumentMoniker": "Trapped\\GAMEOVER.CPP",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\GAMEOVER.CPP",
+              "RelativeToolTip": "Trapped\\GAMEOVER.CPP",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T14:48:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Home.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.cpp",
+              "RelativeToolTip": "Trapped\\Home.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAFgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T08:25:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CountDownTimer.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.h",
+              "RelativeDocumentMoniker": "Trapped\\CountDownTimer.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.h",
+              "RelativeToolTip": "Trapped\\CountDownTimer.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T17:41:30.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountDownTimer.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.cpp",
+              "RelativeDocumentMoniker": "Trapped\\CountDownTimer.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\CountDownTimer.cpp",
+              "RelativeToolTip": "Trapped\\CountDownTimer.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAArwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T17:42:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HealthBar.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.h",
+              "RelativeDocumentMoniker": "Trapped\\HealthBar.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.h",
+              "RelativeToolTip": "Trapped\\HealthBar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T09:01:43.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HealthBar.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.cpp",
+              "RelativeDocumentMoniker": "Trapped\\HealthBar.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\HealthBar.cpp",
+              "RelativeToolTip": "Trapped\\HealthBar.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T09:01:26.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DialogueBox.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.cpp",
+              "RelativeDocumentMoniker": "Trapped\\DialogueBox.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.cpp",
+              "RelativeToolTip": "Trapped\\DialogueBox.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T07:35:40.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DialogueBox.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.h",
+              "RelativeDocumentMoniker": "Trapped\\DialogueBox.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\DialogueBox.h",
+              "RelativeToolTip": "Trapped\\DialogueBox.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T07:35:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.h",
+              "RelativeDocumentMoniker": "Trapped\\Car.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Car.h",
+              "RelativeToolTip": "Trapped\\Car.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T23:18:18.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.h",
+              "RelativeDocumentMoniker": "Trapped\\Home.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Home.h",
+              "RelativeToolTip": "Trapped\\Home.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T16:32:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Inventory.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.h",
+              "RelativeDocumentMoniker": "Trapped\\Inventory.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.h",
+              "RelativeToolTip": "Trapped\\Inventory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-25T09:07:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Inventory.cpp",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.cpp",
+              "RelativeDocumentMoniker": "Trapped\\Inventory.cpp",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Inventory.cpp",
+              "RelativeToolTip": "Trapped\\Inventory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T09:07:30.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bathroom.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.h",
+              "RelativeDocumentMoniker": "Trapped\\Bathroom.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Bathroom.h",
+              "RelativeToolTip": "Trapped\\Bathroom.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T22:10:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Audio.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.h",
+              "RelativeDocumentMoniker": "Trapped\\Audio.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Audio.h",
+              "RelativeToolTip": "Trapped\\Audio.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T16:30:47.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Basement.h",
+              "DocumentMoniker": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.h",
+              "RelativeDocumentMoniker": "Trapped\\Basement.h",
+              "ToolTip": "C:\\Users\\chett\\OneDrive\\Desktop\\Denica\\Uni\\Trapped\\Trapped\\Trapped\\Basement.h",
+              "RelativeToolTip": "Trapped\\Basement.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T14:20:05.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
